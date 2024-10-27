@@ -90,6 +90,20 @@ CETV5
 茂名综合
 茂名公共
 
+🏠湖南频道,#genre#
+湖南卫视
+湖南经视,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTU0Y2RjMGZlOTk5OTc4ZWI2NWYyMjE3ZmEwN2FhOWFiJmVzPTE3MjUzNTE5MDcmdXVpZD1jYzcxZDBjMDM4MGU1ZDVlZDVkNzZmODQ0MDY4YWE1MC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNJSMPP360.m3u8
+湖南电视剧频道,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTUzNDRmY2NhYTc0NDI3ZTk4NzI1ZjU4NjYwYWJmYTE5JmVzPTE3MjUzNjM1NzgmdXVpZD01OTMyOTNiYjgwNDRlN2RiZWQzNWYyNWNhOGZiMzQ0Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/HNDSJMPP360.m3u8
+金鹰纪实频道,http://117.161.12.124/live/program/live/jyjs8m/8000000/mnf.m3u8
+金鹰卡通,http://121.18.43.254:10000/hls/64/index.m3u8
+先锋乒羽频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWRkOGY2YTc5YTBhNmQyZDY1MzU4MWZkYTcxOWIwYjdhJmVzPTE3MjUzNTIyMzgmdXVpZD1lMjk4MDM4ODBmODk4MGM2ZjAzOTI3YzBkMTU2OWQ3MS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/XFPYMPP360.m3u8
+茶频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPThjNzNmZmI4NTVmM2U0ZmYzNTVkMmZhOWFhYzc0MDE4JmVzPTE3MjUzMzk4NDImdXVpZD04MzBiNzFhNDcyNWE3OWE1MzM0YWVjZjA2N2FlMWNmMy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CPDMPP360.m3u8
+长沙女性频道,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI0MjRhMWFjNjgxNjJhYTYzYTNhNjU5M2UyY2ZkMjUwJmVzPTE3MjUzNTE5MTkmdXVpZD04MmM2ZjIzN2ViOTljNGQ2YTVhNzJkMjJiMTQ2OGJhNS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/CSNXMPP360.m3u8
+湘潭新闻综合频道,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湘潭公共都市频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+邵阳新闻合频道,https://live2.sytv.net.cn/xwzh/playlist.m3u8?sign=a34b7bbd34d49d71cc6f57131bb94e6b&t=1725344134
+邵阳公共频道,https://live2.sytv.net.cn/ggpd/playlist.m3u8?sign=9a5d66ed0339ec094d19d0e91ede7bf2&t=1725344140
+
 🌊港·澳·台,#genre#
 翡翠台
 明珠台
